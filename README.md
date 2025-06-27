@@ -1,2 +1,2 @@
 # sernigbio
-That's the only SERNIG's Domain.
+That's the SERNIG's Domain
